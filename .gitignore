@@ -1,0 +1,50 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==========================
+# Virtual Environment
+# ==========================
+.venv/
+venv/
+env/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Output Files
+# ==========================
+outputs/*.csv
+outputs/*.png
+outputs/*.pdf
+outputs/*.html
+
+# ==========================
+# Model Files (optional)
+# Uncomment if you add local models later
+# ==========================
+# models/
+# *.pt
+# *.bin
+# *.onnx
+
+# ==========================
+# Operating System
+# ==========================
+.DS_Store
+Thumbs.db
+
+# Dataset
+dataset/
