@@ -7,3 +7,15 @@ Predicted Arabic Transcript:
 ================ METRICS ================
 Word Error Rate (WER): 0.8333
 Accuracy: 16.67%
+
+
+
+Ground Truth (cleaned):
+هو يحبها و هي تحبه أيضا
+
+Prediction (cleaned):
+هو يحبها وهي تحبه أيضا
+
+================ METRICS ================
+WER: 0.3333
+Accuracy: 66.67%
