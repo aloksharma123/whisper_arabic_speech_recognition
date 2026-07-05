@@ -1,0 +1,9 @@
+Ground Truth (Arabic):
+هو يحبّها و هي تحبّه أيضا.
+
+Predicted Arabic Transcript:
+هو يحبها وهي تحبه أيضا
+
+================ METRICS ================
+Word Error Rate (WER): 0.8333
+Accuracy: 16.67%
